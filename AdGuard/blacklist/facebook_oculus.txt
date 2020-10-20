@@ -1746,6 +1746,7 @@
 ||w.facebook.com
 ||w0.whatsapp.com
 ||w00a133f71kgytxosb-gi3tonrsgq4tenby.snr.whatsapp.net
+||static.whatsapp.net 
 ||w1.web.whatsapp.com
 ||w2.web.whatsapp.com
 ||w3.web.whatsapp.com
