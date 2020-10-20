@@ -2123,7 +2123,6 @@
 ||facebook-hardware.com
 ||edge-star-shv-01-iad3.facebook.com
 ||facebookvirtualassistant.com
-||scontent.oculuscdn.com
 ||*.oculus.com
 ||*.facebook.com
 ||*.fbcdn.net
