@@ -1,0 +1,1 @@
+Add to C:\Windows\system32\drivers\etc\hosts
