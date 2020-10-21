@@ -1,6 +1,6 @@
 # Various Blocklists for AdGuard (OpenWRT package) and Windows
 
-**Warning : These methods should prevent your Oculus device(s) and apps updating, but will also limit your device(s) features.**
+**Warning : These methods should prevent your Oculus device(s) from reaching the Facebook mothership and apps updating, but will also limit your device(s) features.**
 
 ## AdGuard
 
