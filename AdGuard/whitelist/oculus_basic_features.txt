@@ -1,0 +1,11 @@
+!! [Images for Store Apps]
+@@||scontent.oculuscdn.com
+
+!! [NTP]
+@@||time.facebook.com
+
+!! [Needed for almost every basic feature]
+@@||graph.oculus.com
+
+!! [Apps Updates]
+@@||securecdn.oculus.com

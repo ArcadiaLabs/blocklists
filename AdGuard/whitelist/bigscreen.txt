@@ -1,0 +1,7 @@
+!! [BigScreen]
+@@||cdp.cloud.unity3d.com^
+@@||config.uca.cloud.unity3d.com^
+@@||accounts-quebec.bigscreencloud.com^
+@@||files-delta.bigscreencloud.com^
+@@||realtime-quebec.bigscreencloud.com^
+@@||signal-quebec.bigscreencloud.com^

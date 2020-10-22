@@ -2099,6 +2099,8 @@
 ||zh-tw.facebook.com0.facebook.com
 ||edge-mqtt.facebook.com
 ||graph.facebook.com
+
+!! [Various Oculus Domains]
 ||graph.oculus.com
 ||c.ns.facebook.com
 ||d.ns.facebook.com
@@ -2123,6 +2125,14 @@
 ||facebook-hardware.com
 ||edge-star-shv-01-iad3.facebook.com
 ||facebookvirtualassistant.com
+
+!! [Oculus Headset]
+||graph.facebook.com
+||edge-mqtt.facebook.com
+||mqtt-mini.facebook.com
+||ugc.oculuscdn.com
+||graph.facebook-hardware.com
+
 ||*.oculus.com
 ||*.facebook.com
 ||*.fbcdn.net
