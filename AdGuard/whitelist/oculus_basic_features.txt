@@ -6,6 +6,3 @@
 
 !! [Needed for almost every basic feature]
 @@||graph.oculus.com
-
-!! [Apps Updates]
-@@||securecdn.oculus.com
