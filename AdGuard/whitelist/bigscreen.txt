@@ -5,3 +5,4 @@
 @@||files-delta.bigscreencloud.com^
 @@||realtime-quebec.bigscreencloud.com^
 @@||signal-quebec.bigscreencloud.com^
+@@||edge-mqtt.facebook.com^

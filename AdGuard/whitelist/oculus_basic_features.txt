@@ -3,6 +3,3 @@
 
 !! [NTP]
 @@||time.facebook.com
-
-!! [Needed for almost every basic feature]
-@@||graph.oculus.com

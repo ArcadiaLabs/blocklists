@@ -1,0 +1,25 @@
+!! [Images for Store Apps]
+@@||scontent.oculuscdn.com
+
+!! [NTP]
+@@||time.facebook.com
+
+!! [Needed for almost every basic feature]
+@@||graph.oculus.com
+
+!! [Apps Updates]
+@@||securecdn.oculus.com
+
+!! [Amazon Prime Video]
+@@||device-metrics-us.amazon.com^
+@@||images-eu.ssl-images-amazon.com^
+@@||m.media-amazon.com^
+
+!! [BigScreen]
+@@||cdp.cloud.unity3d.com^
+@@||config.uca.cloud.unity3d.com^
+@@||accounts-quebec.bigscreencloud.com^
+@@||files-delta.bigscreencloud.com^
+@@||realtime-quebec.bigscreencloud.com^
+@@||signal-quebec.bigscreencloud.com^
+@@||perf-events.cloud.unity3d.com^
