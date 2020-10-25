@@ -2123,3 +2123,8 @@
 0.0.0.0 facebook-hardware.com
 0.0.0.0 edge-star-shv-01-iad3.facebook.com
 0.0.0.0 facebookvirtualassistant.com
+0.0.0.0 ugc.oculuscdn.com
+0.0.0.0 oculuscdn.com
+0.0.0.0 graph.facebook-hardware.com
+0.0.0.0 fbcdn.net
+0.0.0.0 oculuscdn.com
