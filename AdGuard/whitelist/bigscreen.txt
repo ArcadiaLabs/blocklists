@@ -5,3 +5,7 @@
 @@||files-delta.bigscreencloud.com^
 @@||realtime-quebec.bigscreencloud.com^
 @@||signal-quebec.bigscreencloud.com^
+
+!! [Needed for BigScreen]
+@@||time.facebook.com
+@@||graph.facebook-hardware.com^
