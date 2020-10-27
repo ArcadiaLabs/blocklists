@@ -2099,12 +2099,13 @@
 0.0.0.0 edge-mqtt.facebook.com
 0.0.0.0 graph.facebook.com
 0.0.0.0 graph.oculus.com
-#0.0.0.0 time.facebook.com
+0.0.0.0 time.facebook.com
 0.0.0.0 c.ns.facebook.com
 0.0.0.0 d.ns.facebook.com
 0.0.0.0 edge-oculus-shv-01-iad3.fbcdn.net
 0.0.0.0 edge-oculus-shv-01-sea1.fbcdn.net
 0.0.0.0 developers.oculus.com
+0.0.0.0 developer.oculus.com
 0.0.0.0 live.oculus.com
 0.0.0.0 tickets.oculus.com
 0.0.0.0 support.oculus.com
