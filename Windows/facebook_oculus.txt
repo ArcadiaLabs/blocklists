@@ -2129,3 +2129,5 @@
 0.0.0.0 graph.facebook-hardware.com
 0.0.0.0 fbcdn.net
 0.0.0.0 oculuscdn.com
+0.0.0.0 facebook.net
+0.0.0.0 crashlytics.com

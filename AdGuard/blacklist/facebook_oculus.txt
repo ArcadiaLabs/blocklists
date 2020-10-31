@@ -2133,8 +2133,14 @@
 ||mqtt-mini.facebook.com
 ||ugc.oculuscdn.com
 ||graph.facebook-hardware.com
+||crashlytics.com
 
 ||*.oculus.com
 ||*.facebook.com
 ||*.fbcdn.net
 ||*.oculuscdn.com
+||*.facebook.net
+||*.fbcdn.com
+||*.fbsbx.com
+
+
